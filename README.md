@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I’m Veera
 
 - 🔭 I’m currently working on **Cloud automation with AWS & DevOps tools.**
 - 🌱 I’m currently learning **Docker, Kubernetes, and the world of DevOps.**
